@@ -1,1 +1,1 @@
-# Tic_Tac_Toe_Game
+This is a C++ program that allows two players to play a game of Tic-Tac-Toe. This program displays the game board, handles players moves, checks for a  win or a draw, and provide an option to play again.
